@@ -1,0 +1,23 @@
+{
+   "update_id": 929428461,
+   "message": {
+      "message_id": 623499,
+      "from": {
+         "id": 956042390,
+         "is_bot": false,
+         "first_name": "Artem",
+         "last_name": "Bla-bla",
+         "username": "Art3k27",
+         "language_code": "ru"
+      },
+      "chat": {
+         "id": 956042390,
+         "first_name": "Artem",
+         "last_name": "Bla-bla",
+         "username": "Art3k27",
+         "type": "private"
+      },
+      "date": 1619300240,
+      "text": "fg"
+   }
+}
