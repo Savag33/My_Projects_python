@@ -1,8 +1,3 @@
 
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/pythonProject.iml
-.idea/vcs.xml
-.idea/workspace.xml
+.idea/
 Matplotlib/__pycache__/matplotlib.cpython-38.pyc
